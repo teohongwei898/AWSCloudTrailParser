@@ -52,6 +52,6 @@ Running with no arguments or with -h shows the full help/usage text.
 | Argument    | Short | Description                                         |
 |------------|-------|-----------------------------------------------------|
 |`--input` | `-i`  |	One or more CloudTrail CSV files (mutually exclusive with --directory)
-|`--directory|	-d	|Directory containing CloudTrail CSVs (non-recursive)
-|`--output|	-o|	Optional destination Excel file name (default cloudtrail_triage.xlsx)
-|`--help|	-h	|Show help/usage text
+|`--directory`|	`-d	`|Directory containing CloudTrail CSVs (non-recursive)
+|`--output`|	`-o`|	Optional destination Excel file name (default cloudtrail_triage.xlsx)
+|`--help`|	`-h`	|Show help/usage text
